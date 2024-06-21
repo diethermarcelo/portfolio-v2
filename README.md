@@ -1,5 +1,5 @@
 # portfolio-v2
-- A personal portfolio website v2
+- A personal portfolio website v2 (in progress)
 
 ## Preview:
 
